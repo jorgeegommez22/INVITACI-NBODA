@@ -1,0 +1,7 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 600, "h": 840, "title": "Invitación — principal", "print": "fixed" },
+    { "file": "Alt.dc.html", "x": 780, "y": 0, "w": 600, "h": 840, "title": "Invitación — variante", "print": "fixed" }
+  ],
+  "launch": { "view": "focused", "file": "Main.dc.html" }
+}
